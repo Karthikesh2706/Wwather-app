@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Wwather-app/static/css/main.94c098e2.css",
-    "main.js": "/Wwather-app/static/js/main.74e28727.js",
+    "main.css": "/Wwather-app/static/css/main.23de4cbf.css",
+    "main.js": "/Wwather-app/static/js/main.b83d8616.js",
     "static/js/488.9c92ff38.chunk.js": "/Wwather-app/static/js/488.9c92ff38.chunk.js",
     "index.html": "/Wwather-app/index.html",
-    "main.94c098e2.css.map": "/Wwather-app/static/css/main.94c098e2.css.map",
-    "main.74e28727.js.map": "/Wwather-app/static/js/main.74e28727.js.map",
+    "main.23de4cbf.css.map": "/Wwather-app/static/css/main.23de4cbf.css.map",
+    "main.b83d8616.js.map": "/Wwather-app/static/js/main.b83d8616.js.map",
     "488.9c92ff38.chunk.js.map": "/Wwather-app/static/js/488.9c92ff38.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.94c098e2.css",
-    "static/js/main.74e28727.js"
+    "static/css/main.23de4cbf.css",
+    "static/js/main.b83d8616.js"
   ]
 }
